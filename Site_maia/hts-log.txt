@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 Nov 2022 09:48:00 at http://docs.donkeycar.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://docs.donkeycar.com/ -O1 "C:\My Web Sites\Site_maia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:24:13	Error: 	"Not Found" (404) at link docs.donkeycar.com/guide/parts/rc_hat.md/ (from docs.donkeycar.com/guide/calibrate/)
+10:24:14	Error: 	"Not Found" (404) at link docs.donkeycar.com/guide/calibrate/build_hardware.md/ (from docs.donkeycar.com/guide/calibrate/)
+10:24:14	Error: 	"Not Found" (404) at link docs.donkeycar.com/guide/parts/rc_hat/ (from docs.donkeycar.com/guide/calibrate/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/sim_screen_shot.png (from docs.donkeycar.com/guide/deep_learning/simulator/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/guide/install_software.md (from docs.donkeycar.com/guide/deep_learning/simulator/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/virtual_race_league.jpg (from docs.donkeycar.com/guide/deep_learning/virtual_race_league/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/guide/deep_learning/simulator.md (from docs.donkeycar.com/guide/deep_learning/virtual_race_league/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/mobile_app/cover.png (from docs.donkeycar.com/guide/deep_learning/mobile_app/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/mobile_app/search-vehicle.png (from docs.donkeycar.com/guide/deep_learning/mobile_app/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/mobile_app/calibration.png (from docs.donkeycar.com/guide/deep_learning/mobile_app/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/mobile_app/drive-ui.gif (from docs.donkeycar.com/guide/deep_learning/mobile_app/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/mobile_app/drive-summary.png (from docs.donkeycar.com/guide/deep_learning/mobile_app/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/mobile_app/data.png (from docs.donkeycar.com/guide/deep_learning/mobile_app/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/mobile_app/train.png (from docs.donkeycar.com/guide/deep_learning/mobile_app/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/mobile_app/autopilot.gif (from docs.donkeycar.com/guide/deep_learning/mobile_app/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/assets/mobile_app/advanced-configuration.png (from docs.donkeycar.com/guide/deep_learning/mobile_app/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/guide/robot_sbc/setup_raspberry_pi.md (from docs.donkeycar.com/guide/deep_learning/mobile_app/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/dev_guide/docs (from docs.donkeycar.com/dev_guide/contribute/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/cars/supported_cars/assets/Latrax.jpg (from docs.donkeycar.com/cars/supported_cars/)
+10:24:15	Error: 	"Not Found" (404) at link docs.donkeycar.com/roll_your_own/ (from docs.donkeycar.com/cars/supported_cars/)
+10:24:55	Error: 	"Not Found" (404) at link docs.donkeycar.com/docs/guide/robot_sbc/tensorrt_jetson_nano.md (from docs.donkeycar.com/guide/deep_learning/train_autopilot/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 minutes 55 seconds : 155 links scanned, 133 files written (55488680 bytes overall) [54269713 bytes received at 24500 bytes/sec], 2328740 bytes transferred using HTTP compression in 77 files, ratio 34%, 2.8 requests per connection
+(21 errors, 0 warnings, 0 messages)
